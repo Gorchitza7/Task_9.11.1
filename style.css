@@ -1,0 +1,41 @@
+.game-card {
+    margin-top: 0; 
+    border: none;  
+    height: 100vh;
+    font-family: "Share Tech Mono", monospace;
+  }
+  
+  .dataBirth,
+  .proff {
+    font-size: 1.25em;
+    color: lawngreen;
+  }
+  
+  .proff {
+    font-weight: bold;
+  }
+  
+  .button input {
+    margin: 0.1875rem 1.25rem;
+    border: none;
+  }
+
+  body {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .card-header {
+    background-color: #000;
+  }
+  
+  .card-body {
+    background-color: #000;
+  }
+  
+  .card-title {
+    color: #fff;
+  }
+  
+ 
+  
